@@ -19,11 +19,10 @@ This project was created in Russian to let my fellow junior developers to get up
 Материалы содержаться в папке docs. Начать лучше всего с первой темы, JavaScript, которая попутно затронет все остальные.
 
 Вот список доступных тем:
+- [Основы Web](topics/web-basics/index.md),
 - [JavaScript](topics/javascript/index.md),
 - CSS,
 - SVG,
-- React,
-- Redux,
 - TypeScript,
 - Git,
 - Security,
