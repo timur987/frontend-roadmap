@@ -1,5 +1,17 @@
 # JavaScript
 
+## React
+- [Счетчик нажатий с помощью useState](./react/easy-use-state-counter.md);
+<!--
+- [useEffect]()
+- [useLayoutEffect()]
+- [Фокус на поле ввода с помощью useRef]()
+- [useCallback]()
+- [useMemo]()
+- [useReducer]()
+- [useTransition]()
+-->
+
 ## Теория
 
 Coming soon: (**TODO:**)
@@ -7,7 +19,8 @@ Coming soon: (**TODO:**)
 - Webpack,
 - React (sample app with `useState`),
 - React Router,
-- Redux
+- Redux,
+- Паттерны программирования.
 
 ## Практика
 
@@ -15,7 +28,7 @@ Coming soon: (**TODO:**)
 
 ### Легкие
 
-#### Общие
+#### Функции
 - [Расчитать стоимость доставки мебели на этаж](./exercises/easy/furniture-delivery-cost.md);
 - [Вычисляем факториал](./exercises/easy/factorial-recursion.md)
 
@@ -25,7 +38,7 @@ Coming soon: (**TODO:**)
 - [Манипуляция элементами массива (pop, push, shift, unshift)](./exercises/easy/arrays/manipulations.md);
 
 #### Объекты
-- [Создать объект, описывающий собаку](./exercises/easy/objects/dog.md)
+- [Создать объект, описывающий собаку](./exercises/easy/objects/dog.md);
 <!-- TODO: Добавить задачи на объекты
 - [Доступ к полям объекта с помощью "точки"]() (TODO: Дан объект, обратиться к его свойствам, вывести результат в консоль)
 - [Доступ к полям объекта с помощью квадратных скобок]() TODO:
