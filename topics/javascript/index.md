@@ -48,7 +48,14 @@ Coming soon: (**TODO:**)
 - [Независимые счетчики](./closures/counters.md)
 
 ## React
-- [Счетчик нажатий с помощью useState](./react/easy-use-state-counter.md);
+- Теория:
+  - [Описание хуков React](https://habr.com/ru/articles/660573/);
+  - [Справочник](https://reactdev.ru/archive/react16/hooks-reference/);
+- `useState`
+  - [Счетчик нажатий](./react/easy-use-state-counter.md);
+  - [Меняем цвет кнопки](./react/change-button-color.md);
+- `useEffect`
+  - Coming soon ...
 <!-- TODO: добавить задачки на остальные хуки
 - [useEffect]()
 - [useLayoutEffect()]
