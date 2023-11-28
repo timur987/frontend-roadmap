@@ -45,7 +45,7 @@ Coming soon: (**TODO:**)
 -->
 
 ## Замыкания
-- [Независимые счетчики]()
+- [Независимые счетчики](./closures/counters.md)
 
 ## React
 - [Счетчик нажатий с помощью useState](./react/easy-use-state-counter.md);
